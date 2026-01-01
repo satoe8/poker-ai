@@ -98,7 +98,3 @@ Want to connect external AI models? You can modify `lib/poker-ai-coach.ts` to:
 - Integrate with the Vercel AI SDK for streaming responses
 
 The current specialized AI is highly effective for teaching fundamental poker strategy.
-
-## License
-
-MIT
