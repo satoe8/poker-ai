@@ -15,7 +15,7 @@ A Duolingo-style poker learning app with a specialized AI coach that teaches you
 
 ### Quick Start
 
-1. **Download the code**: Click the three dots (•••) at the top right → Download ZIP
+1. **Download the code**
 
 2. **Extract and open terminal** in the project folder
 
@@ -93,7 +93,7 @@ No jargon, no poker slang - just clear explanations that help you improve.
 ## Future Enhancements
 
 Want to connect external AI models? You can modify `lib/poker-ai-coach.ts` to:
-- Call external APIs like OpenAI or Claude
+- Call external APIs
 - Use local LLMs via Ollama
 - Integrate with the Vercel AI SDK for streaming responses
 
